@@ -32,7 +32,7 @@ try:
     login_button = driver.find_element(By.ID, 'submit_login')
     login_button.click()
 
-    print("Cele mai recent update-ate manga/manhua/manhwa-uri sunt:")
+    print("Cel mai recent updatate manga/manhua/manhwa-uri sunt:")
 
     time.sleep(5)
 
